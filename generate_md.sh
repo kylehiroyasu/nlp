@@ -1,0 +1,1 @@
+jupyter nbconvert notebooks/chapter_02/chapter_02_regular_expressions_normalization_edit_distance.ipynb --to markdown --output-dir md/
